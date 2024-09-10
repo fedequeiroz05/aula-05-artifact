@@ -1,5 +1,4 @@
 name: Go Build Workflow
-
 on:
   push:
     branches:
